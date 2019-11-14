@@ -1,14 +1,17 @@
 ---
-title: "Introduction to Neural Network and Deep Learning"
+title: "Introduction to Neural Network and Deep Learning for Researchers"
 ---
 
 * [Slides](Introduction to neural networks and deep learning.pdf)
-* Python Notebooks
+* Code
     1. Introduction to Keras (<a href="2.1 Introduction to Keras.ipynb" download="2.1 Introduction to Keras.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/nn-workshop/blob/master/docs/2.1 Introduction to Keras.ipynb) )
     2. A First Feedforward Neural Network (<a href="2.2 A First Feedforward Neural Network - Solved.ipynb" download="2.2 A First Feedforward Neural Network - Solved.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/nn-workshop/blob/master/docs/2.2 A First Feedforward Neural Network - Solved.ipynb) )
     3. Keras Tooling (<a href="2.3 Keras Tooling - Solved.ipynb" download="2.3 Keras Tooling - Solved.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/nn-workshop/blob/master/docs/2.3 Keras Tooling - Solved.ipynb) )
     4. Introudction to CNN (<a href="4.1 Introduction to CNNs.ipynb" download="4.1 Introduction to CNNs.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/nn-workshop/blob/master/docs/4.1 Introduction to CNNs.ipynb) )
     5. Introudction to Word Vectors (<a href="5.1 Introduction to Word Vectors.ipynb" download="5.1 Introduction to Word Vectors.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/nn-workshop/blob/master/docs/5.1 Introduction to Word Vectors.ipynb) )    
+
+---   
+
 * Free Resources
     * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g183f28bdc3_0_90)
     * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
